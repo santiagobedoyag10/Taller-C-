@@ -1,4 +1,3 @@
-﻿/*
 //PUNTO 1
 Console.WriteLine("Ingrese el numerador de la fraccion #1");
 float numerador1 = float.Parse(Console.ReadLine());
@@ -106,4 +105,3 @@ Console.WriteLine("Bienvenido, inicie seccion");
     
  } 
  Console.WriteLine("Fin Programa");
-*/
